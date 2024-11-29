@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="table_layout_4_open">Opean...</string>
+    <string name="table_layout_4_open_shortcut">Ctrl-O</string>
+    <string name="table_layout_4_save">Save...</string>
+    <string name="table_layout_4_save_shortcut">Ctrl-S</string>
+    <string name="table_layout_4_save_as">Save as...</string>
+    <string name="table_layout_4_save_as_shortcut">Ctrl-Shift-S</string>
+    <string name="table_layout_4_import">Import...</string>
+    <string name="table_layout_4_export">Export...</string>
+    <string name="table_layout_4_export_shortcut">Ctrl-E</string>
+    <string name="table_layout_4_Quit">Quit</string>
+
+
+    <string name="con_text1">ContraintLayout</string>
+    <string name="con_input">Input</string>
+    <string name="con_text2">0.0</string>
+    <string name="con_7">7</string>
+    <string name="con_8">8</string>
+    <string name="con_9">9</string>
+    <string name="con_4">4</string>
+    <string name="con_5">5</string>
+    <string name="con_6">6</string>
+    <string name="con_1">1</string>
+    <string name="con_2">2</string>
+    <string name="con_3">3</string>
+    <string name="con_0">0</string>
+    <string name="con_jia">+</string>
+    <string name="con_jian">-</string>
+    <string name="con_cheng">*</string>
+    <string name="con_dengyu">=</string>
+    <string name="con_xiaoshudian">.</string>
+</resources>

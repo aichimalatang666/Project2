@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="线性布局" />
+
+    <Button
+        android:id="@+id/btn_view2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="表格布局" />
+
+    <Button
+        android:id="@+id/btn_view3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="约束布局1" />
+
+    <Button
+        android:id="@+id/btn_view4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="约束布局2" />
+</LinearLayout>
